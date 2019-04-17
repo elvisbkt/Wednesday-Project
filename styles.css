@@ -1,0 +1,71 @@
+
+nav{
+    float: right;
+
+}
+nav ul li{
+    display: inline;
+    font-size: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.Teamwork > p {
+    font-family: 'Arvo', serif;
+    width: 60%;
+    padding-left: 20%;
+}
+a{
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+table{
+    border: 1px solid red;
+    margin-left: 20%;
+    margin-top: 100px;
+    border-collapse: separate;
+    width: 1200px;
+    height: 600px;
+    border-radius: 20px;
+    opacity: 100;
+   
+}
+th,td{
+    border: 1px solid red;
+    border-radius: 20px;
+    
+
+}
+header{ rgb(81, 255, 0);
+    height: 80px;
+    background-color: black;
+}
+button{
+  float: right;
+
+}
+.Teamwork{
+    background-color: #502d2d;
+    opacity: 0.85;
+
+    background-image: url("./Free-Images-for-Website.jpg");
+    background-size: cover;
+    margin: -20px;
+    
+    
+}
+footer {
+    background-color: black;
+    height: 200px;
+    
+}
+footer p{
+    color: white;
+    text-align: center;
+    padding-top: 160px;
+}
